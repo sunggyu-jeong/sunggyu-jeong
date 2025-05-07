@@ -17,7 +17,7 @@
 LANGUAGES      │ Java · JavaScript · TypeScript · Swift · Kotlin · Python
 ───────────────┼───────────────────────────────────────────────────────────
 FRAMEWORKS     │ Spring Boot · Express · React · React Native · Vue
-ARCHITECTURE   │ Clean Arch · FSD · Atomic Design · Redux ToolKit · JPA
+ARCHITECTURE   │ Clean Arch · FSD · Atomic Design · Redux ToolKit · JPA · MVC · MVVM · MVI · TCA
 DATA / DB      │ PostgreSQL · MySQL · MariaDB · Redis · Realm
 DEVOPS & OPS   │ Docker · GitHub Actions · Railway · Vercel · AWS EC2/S3
 TEST / QA      │ Jest
