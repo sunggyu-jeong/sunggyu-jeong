@@ -36,4 +36,4 @@ DESIGN & ETC   │ Figma · TailwindCSS · Framer Motion · Storybook
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 ▍ Connect
 
-Email coder3306@gmail.com
+Email jskoder0109@gmail.com
