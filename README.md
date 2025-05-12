@@ -1,13 +1,12 @@
 
-# 정성규 — Full‑Stack Dev Playground
+# 정성규 — Full‑Stack Developer
 > 사용자 중심의 웹과 모바일 경험을 디자인하고 개발합니다.
 <br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 ▍ About Me
 - 3년 + 경력의 **모바일·웹·백엔드 풀스택 개발자**
-- React Native·React·Vue·Swift 기반 **모바일·웹 UI/UX 최적화**와  
-  Spring Boot·Express 기반 **API 설계·DB 모델링**을 동시에 경험
+- React Native·React·Vue·Swift 기반 **모바일·웹 UI/UX 최적화**와 Spring Boot·Express 기반 **API 설계·DB 모델링**을 동시에 경험
 - **CI/CD 자동화 · DevOps 흐름**을 적용해 출시 주기 단축 및 품질 확보
 <br>
 
