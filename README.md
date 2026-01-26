@@ -10,7 +10,7 @@ System Architect | Software Engineer
 
 **Languages & Core**
 - TypeScript, Swift, Solidity, Kotlin, Java, Python, JavaScript
-- React Native (Expo), Android/iOS Native
+- React Native, Android/iOS Native
 - Next.js, React, Vue, Nexacro
 
 **Backend & Infrastructure**
